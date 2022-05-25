@@ -30,7 +30,7 @@ pkg-resources==0.0.0
 psycopg2==2.8.4
 pycparser==2.19
 PyGithub==1.45
-PyJWT==1.7.1
+PyJWT==2.4.0
 python-dateutil==2.8.1
 python-gitlab==1.15.0
 pytz==2019.3
